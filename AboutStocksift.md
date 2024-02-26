@@ -1,4 +1,24 @@
-# NAVIGATING GROUP 2’s PROJECT
+<div align="center">
+
+# StockSift - The Market Denoiser
+##### Created by **Demi Oyebanji**, **Anna Toaze**, **Ahmad Aslam**, and **Mick Charbonneau-Dinelle** 
+##### A project for the **UofT SCS Financial Technology Bootcamp**
+</div>
+_____________________________________________________________________________________________________
+
+If you're inspired by our code please find a way to credit us by name :)
+If you'd like to hire our team or use this for research/ commercial purposes, please reach out by email.
+
+**CLICK NAME BELOW TO EMAIL**:
+
+
+[Demi Oyebanji](mailto:oluwademiladeoyebanji@outlook.com),
+[Ahmad Aslam](mailto:),
+[Anna Toaze](mailto:anna.tz@live.com),
+[Mick Charbonneau-Dinelle](mailto:),
+[Shivakumar Velavan](mailto:),
+
+_____________________________________________________________________________________________________
 
 Our project, **STOCKSIFT**, is a market denoiser that allows early-stage investors a little peace of mind when making purchase decisions.
 
