@@ -64,4 +64,4 @@ In the repository, there are five main focal points:
 
 - The short-term analysis provides data for MACD, RSI, Moving Average, and Daily Return for the 10 stocks selected in the risk evaluation.
 
-If you have any questions about the project, please reach out to any of the team members: Ahmad Saeed Aslam, Anna Toaze, Oluwademilade Oyebanji, Shivakumar Velavan, Mick Charbonneau-Dinelle.
+
