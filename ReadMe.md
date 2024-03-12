@@ -13,10 +13,10 @@ If you'd like to hire our team or use this for research/ commercial purposes, pl
 
 
 [Demi Oyebanji](mailto:oluwademiladeoyebanji@outlook.com),
-[Ahmad Aslam](mailto:),
+[Ahmad Aslam](mailto:As_aslam@hotmail.co.uk),
 [Anna Toaze](mailto:anna.tz@live.com),
 [Mick Charbonneau-Dinelle](mailto:),
-[Shivakumar Velavan](mailto:),
+[Shivakumar Velavan](mailto:shivakumar.velavan@mail.utoronto.ca),
 
 _____________________________________________________________________________________________________
 
